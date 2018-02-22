@@ -4,3 +4,5 @@
 运行wechat.zip中的exe，然后扫描巨大的二维码进行web微信登录，然后放着就可以记录所有的消息
 
 如果觉得我做得不错，请鼓励一下
+
+<img src="https://github.com/zirandeai2011/mule-esb-ent-cracked/blob/master/code.png" width = "40%" height = "40%" align=center />
